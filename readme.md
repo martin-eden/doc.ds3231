@@ -1,6 +1,6 @@
 # RTC IC DS3231
 
-[Datasheet][ds] for Maxim real-time-clock integrated-circuit DS3231.
-Widely used in Arduino world. (Read: I'm using it.)
+[Datasheet][datasheet] for Maxim real-time-clock integrated-circuit DS3231.
+Widely used in Arduino world.
 
-[ds]: DS3231.pdf
+[datasheet]: DS3231.pdf
